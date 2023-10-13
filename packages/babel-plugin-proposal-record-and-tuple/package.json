@@ -20,10 +20,10 @@
     "babel-plugin"
   ],
   "dependencies": {
-    "@babel/helper-module-imports": "workspace:^",
+    "@babel/helper-module-imports": "7.0.0",
     "@babel/helper-plugin-utils": "workspace:^",
     "@babel/helper-validator-option": "workspace:^",
-    "@babel/plugin-syntax-record-and-tuple": "workspace:^"
+    "@babel/plugin-syntax-record-and-tuple": "7.9.0"
   },
   "peerDependencies": {
     "@babel/core": "^7.12.0"
