@@ -17,9 +17,9 @@
     "typescript"
   ],
   "dependencies": {
-    "@babel/helper-create-class-features-plugin": "workspace:^",
+    "@babel/helper-create-class-features-plugin": "7.2.0",
     "@babel/helper-plugin-utils": "workspace:^",
-    "@babel/plugin-syntax-typescript": "workspace:^"
+    "@babel/plugin-syntax-typescript": "7.0.0"
   },
   "peerDependencies": {
     "@babel/core": "^7.0.0-0"
