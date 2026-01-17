@@ -20,12 +20,12 @@
     "./src/get-runtime-path/index.ts": "./src/get-runtime-path/browser.ts"
   },
   "dependencies": {
-    "@babel/helper-module-imports": "workspace:^",
+    "@babel/helper-module-imports": "7.0.0",
     "@babel/helper-plugin-utils": "workspace:^",
     "babel-plugin-polyfill-corejs2": "^0.3.3",
     "babel-plugin-polyfill-corejs3": "^0.6.0",
     "babel-plugin-polyfill-regenerator": "^0.4.1",
-    "semver": "condition:BABEL_8_BREAKING ? ^7.3.4 : ^6.3.0"
+    "semver": "1.0.0"
   },
   "peerDependencies": {
     "@babel/core": "^7.0.0-0"
