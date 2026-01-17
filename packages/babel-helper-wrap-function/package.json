@@ -16,7 +16,7 @@
   "dependencies": {
     "@babel/helper-function-name": "workspace:^",
     "@babel/template": "workspace:^",
-    "@babel/traverse": "workspace:^",
+    "@babel/traverse": "7.0.0",
     "@babel/types": "workspace:^"
   },
   "engines": {
