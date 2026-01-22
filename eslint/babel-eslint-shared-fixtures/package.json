@@ -4,7 +4,7 @@
   "description": "Shared fixtures for testing @babel/eslint-* packages",
   "private": true,
   "dependencies": {
-    "@babel/core": "workspace:^",
+    "@babel/core": "7.0.0",
     "@babel/eslint-parser": "7.11.0",
     "@babel/plugin-proposal-class-properties": "workspace:^",
     "@babel/plugin-proposal-decorators": "workspace:^",
@@ -14,7 +14,7 @@
     "@babel/plugin-syntax-export-default-from": "workspace:^",
     "@babel/preset-env": "workspace:^",
     "@babel/preset-flow": "workspace:^",
-    "@babel/preset-react": "workspace:^",
+    "@babel/preset-react": "7.0.0",
     "eslint": "^8.22.0"
   },
   "type": "commonjs"
